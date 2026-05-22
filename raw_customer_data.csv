@@ -1,0 +1,31 @@
+Customer_ID,Customer_Name,Age,City,Purchase_Date,Revenue,Product_Category,Status
+C001,ali khan,25.0,Lahore,2024-01-15,1500.5,Electronics,Active
+C002,SARA AHMED,,KARACHI,15/02/2024,2300.0,Clothing,active
+C003,  Bilal Raza  ,30.0,lahore,2024-03-20,,electronics,ACTIVE
+C004,usman MALIK,22.0,Islamabad,20-04-2024,800.75,CLOTHING,Active
+C005,zara sheikh,,KARACHI,2024/05/10,1200.0,Electronics,active
+C006,Hassan Ali,35.0,lahore,2024-06-18,3400.25,FOOD,Inactive
+C007,NADIA IQBAL,28.0,ISLAMABAD,18/07/2024,,food,INACTIVE
+C008,kamran butt,,Karachi,2024-08-22,950.0,Electronics,active
+C009,  sana mirza  ,31.0,LAHORE,22-09-2024,2100.5,CLOTHING,Active
+C010,OMAR FAROOQ,27.0,islamabad,2024/10/05,,clothing,INACTIVE
+C011,maria khan,,karachi,2024-11-12,1750.0,electronics,active
+C012,AHMED RAZA,33.0,Lahore,12/12/2024,4200.0,FOOD,Active
+C013,salma begum,26.0,ISLAMABAD,2024-01-30,,Food,ACTIVE
+C003,usman MALIK,22.0,Islamabad,20-04-2024,800.75,CLOTHING,Active
+C005,zara sheikh,,KARACHI,2024/05/10,1200.0,Electronics,active
+C015,TARIQ HASSAN,29.0,Lahore,2024-02-14,2800.5,clothing,inactive
+C016,  layla noor  ,24.0,KARACHI,14/03/2024,,ELECTRONICS,ACTIVE
+C017,FAISAL QURESHI,,lahore,2024-04-25,1600.0,food,active
+C018,HINA BAIG,38.0,Islamabad,25-05-2024,3100.25,CLOTHING,Inactive
+C019,RIZWAN CH,21.0,LAHORE,2024/06/08,,Electronics,ACTIVE
+C020,AYESHA SIDDIQUI,32.0,karachi,2024-07-19,2200.0,FOOD,active
+C021,ZUBAIR KHAN,,LAHORE,19/08/2024,1900.5,clothing,INACTIVE
+C022,  NOOR UL AIN  ,27.0,Islamabad,2024-09-27,,Electronics,Active
+C023,TAHA MALIK,34.0,lahore,27-10-2024,2700.0,FOOD,active
+C024,RIDA FATIMA,,KARACHI,2024/11/03,1400.75,electronics,ACTIVE
+C025,HAMZA NAWAZ,28.0,ISLAMABAD,2024-12-15,3300.0,Clothing,inactive
+C026,  SABA GUL  ,31.0,Lahore,15/01/2024,,ELECTRONICS,Active
+C027,DANISH SAEED,,karachi,2024-02-28,2500.5,food,INACTIVE
+C028,MAIRA ALI,25.0,LAHORE,28-03-2024,1800.0,CLOTHING,active
+C029,UMAR SHEIKH,29.0,islamabad,2024/04/17,,electronics,ACTIVE
